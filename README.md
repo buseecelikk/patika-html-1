@@ -5,6 +5,7 @@
 
 ## Birinci Yazı
 ![.](img/christin-hume-mfB1B1s4sMc-unsplash.jpg)
+
 Lorem ipsum dolor sit amet consectetur adipisicing elit. Esse, possimus.
 
 Lorem ipsum dolor sit amet.
@@ -20,6 +21,7 @@ Itaque qui hic corrupti omnis!
 ---------------------------------------------------------------------
 ## İkinci Yazı
 ![.](https://picsum.photos/id/227/600/300)
+
 Lorem ipsum dolor sit amet consectetur adipisicing elit. Esse, possimus.
 
 Lorem ipsum dolor sit amet.
@@ -35,6 +37,7 @@ Itaque qui hic corrupti omnis!
 ---------------------------------------------------------------------
 ## Üçüncü Yazı
 ![.](https://picsum.photos/id/217/600/300)
+
 Lorem ipsum dolor sit amet consectetur adipisicing elit. Esse, possimus.
 
 Lorem ipsum dolor sit amet.
